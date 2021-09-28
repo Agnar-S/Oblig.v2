@@ -1,4 +1,4 @@
-http://127.0.0.1:5501/ ->Link to the page!
+https://agnar-s.github.io/Oblig.v2/ ->Link to the page!
 
 Group: "Gruppe 300".
 git commit --allow-empty -m "Trigger rebuild"
